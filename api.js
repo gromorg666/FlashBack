@@ -8,7 +8,7 @@ const articles = [
     {
         "title": "Astronomía Moderna",
         "description": "Explora los descubrimientos recientes en el campo de la astronomía y cómo impactan nuestra visión del universo.",
-        "image": "/img/astronomia_moderna.jpg",
+        "image": "https://raw.githubusercontent.com/gromorg666/img/refs/heads/main/astronomia_moderna.jpg",
         "link": "http://192.168.0.3:8080/html/astronomia_moderna.html"
     },
     {
